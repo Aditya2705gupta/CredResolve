@@ -1,9 +1,0 @@
-issue,impact
-Exact duplicate payment rows,"486 rows removed; ₹25,011,462 gross recovery inflation removed"
-Exact duplicate call rows,"1,271 rows removed"
-Ambiguous call timestamp IDs,11 call IDs / 22 rows excluded from call metrics
-Exact duplicate WhatsApp rows,600 rows removed
-Accounts with missing borrower_id,455 accounts retained with missing borrower
-Calls with missing agent_id after cleaning,1759 calls retained with unknown agent
-Call attempts with missing vendor_id,2400 attempts retained with unknown vendor
-Status records recorded before event time,30191 records flagged; event_at used for chronology
